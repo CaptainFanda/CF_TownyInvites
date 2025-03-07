@@ -1,0 +1,4 @@
+name: CF_TownyInvites
+version: '1.0'
+main: PolitGame.CaptainFanky.CF_TownyInvites
+api-version: '1.21'

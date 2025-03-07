@@ -1,0 +1,7 @@
+PolitGame\CaptainFanky\Service\Cooldown.class
+PolitGame\CaptainFanky\CF_TownyInvites.class
+PolitGame\CaptainFanky\Commands\TownSelection.class
+PolitGame\CaptainFanky\Commands\NationSelection.class
+PolitGame\CaptainFanky\Commands\NationAsk.class
+PolitGame\CaptainFanky\ConfigData.class
+PolitGame\CaptainFanky\Commands\TownAsk.class
